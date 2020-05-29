@@ -1,0 +1,13 @@
+database name : django_ecommerce
+
+User name : Noor011007
+
+Host Name : localhost
+
+Password : nayan011
+
+
+Super User :
+Username : noor
+Email : nayanrahman51@gmail.com
+Password : noor011
